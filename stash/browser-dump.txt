@@ -1,0 +1,27 @@
+[browser-dump 3-2-16 : setup examples site]
+
+chrome://newtab/
+https://github.com/Ewha-Designed-Electrical-Engineering/Ewha-Designed-Electrical-Engineering.github.io
+http://ewha-designed-electrical-engineering.github.io/
+http://ewha-designed-electrical-engineering.github.io/pgs/quickstart.html
+http://ewha-designed-electrical-engineering.github.io/pgs/suggestions.html
+http://ewha-designed-electrical-engineering.github.io/
+http://dillinger.io/
+https://www.google.com/search?q=ewha+logo&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjP-5Pg2aHLAhUBspQKHdf_C-AQ_AUIBygB&biw=1348&bih=816#imgrc=0rDfPFo7mf3PSM%3A
+http://www.stonybrook.edu/commcms/studyabroad/outgoing/programs/summer/korea/ewhaLogo.JPG
+https://www.google.com/search?q=collaborative&oq=Colabrative&gs_l=serp.1.0.0i10l10.89218.89218.0.90574.1.1.0.0.0.0.118.118.0j1.1.0....0...1c.1.64.serp..0.1.117.O1b_girrx_k
+https://www.google.com/search?espv=2&q=arduino+quickstart&oq=arduino+quickstart&gs_l=serp.3..0i10l2j0i22i30.56213.58435.0.58686.11.11.0.0.0.0.154.1082.0j9.9.0....0...1c.1.64.serp..2.9.1066.RW3V5Kks3IM
+https://www.arduino.cc/en/Main/Software
+http://electronics.stackexchange.com/questions/26548/is-there-a-way-that-you-can-get-a-portable-online-arduino-ide
+http://ide.wifino.com/
+https://codebender.cc/
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=Specific&oq=Specific&aqs=chrome..69i57j0l5.926j0j8
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=node%20js%20arduino&oq=node%20js%20ard&aqs=chrome.1.69i57j0l5.4190j0j4
+http://node-ardx.org/
+https://github.com/rwaldron/johnny-five
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=online%20diagram%20creation&oq=online%20diagram%20creation&aqs=chrome..69i57j0l5.3823j0j8
+https://www.draw.io/
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=online%20electical%20scematic%20creation&oq=online%20electical%20scematic%20creation&aqs=chrome..69i57.8527j0j8
+http://www.digikey.com/schemeit/
+https://c9.io/koreahaos
+https://translate.google.com/#en/ko/I%20threw%20together%20a%20quick%20website%2C%20made%20us%20an%20organization%20to%20share%20our%20work%2C%20listed%20some%20resources%2C%20and%20made%20a%20couple%20suggestions%20you%20might%20consider.
